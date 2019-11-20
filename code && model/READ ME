@@ -1,0 +1,10 @@
+For running my model on test data, simple put my model file under a folder named 'model',
+where the folder that contain 'model' folder also has a folder named data with three seperate folders
+about three classes in it.
+
+The training data of my train.ipyns is stored locally on lab computer
+
+Regarding the file format is different between my test and train,
+I was using terminal to complie and test my test.py to test my model, but I was using jupyter book
+to work my the trainning code which can produce my CNN model.
+
